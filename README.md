@@ -1,35 +1,30 @@
-[![Quasar Badge](https://img.shields.io/badge/Framework-Quasar-blue)](https://quasar.dev)
-[![Quasar Badge](https://img.shields.io/github/forks/PAHJunior/Quasar-Signature-Pad?style=social)](https://quasar.dev)
-[![Quasar Badge](https://img.shields.io/github/stars/PAHJunior/Quasar-Signature-Pad?style=social)](https://quasar.dev)
+# Quasar-Signature-Pad
 
-# Quasar-Signature-Pad (quasar-signature-pad)
+![Quasar Badge](https://img.shields.io/badge/Framework-Quasar-blue)
+[![GitHub Forks](https://img.shields.io/github/forks/PAHJunior/Quasar-Signature-Pad?style=social)](https://quasar.dev)
+[![GitHub Stars](https://img.shields.io/github/stars/PAHJunior/Quasar-Signature-Pad?style=social)](https://quasar.dev)
+
 Signature Pad using Quasar
 
-## Print
-[![N|Solid](https://github.com/PAHJunior/Quasar-Signature-Pad/blob/master/docs/SignaturePad.jpg?raw=true)](https://signature-pad.surge.sh/)
+## Overview
+
+Quasar-Signature-Pad is a Quasar framework-based application that allows you to capture digital signatures. It provides a simple and efficient way to implement signature capture functionality into your projects.
+
+![Signature Pad](https://github.com/PAHJunior/Quasar-Signature-Pad/blob/master/docs/SignaturePad.jpg?raw=true)
 
 ## Demo
-https://signature-pad.surge.sh/
+
+You can see a live demo of Quasar-Signature-Pad in action here: [Signature Pad Demo](https://signature-pad.surge.sh/)
 
 ## References
-https://github.com/neighborhood999/vue-signature-pad
 
-## Install the dependencies
+This project is inspired by the Vue Signature Pad project. You can find the original project here: [Vue Signature Pad](https://github.com/neighborhood999/vue-signature-pad)
+
+## Getting Started
+
+To get started with Quasar-Signature-Pad, follow these steps:
+
+### Install Dependencies
+
 ```bash
 npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-### Lint the files
-```bash
-npm run lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
